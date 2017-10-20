@@ -5,4 +5,4 @@
 
 [Excercise_02:让名字动起来](https://github.com/xs571857920/computational-physics-N2015301020166/blob/master/%E8%BF%90%E5%8A%A8%E7%9A%84XS.py) 
 
-[Excercise_05:打击一个小球的落点研究](https://www.zybuluo.com/xs571857920/note/922066) 
+[Excercise_05:打击一个棒球的落点研究](https://www.zybuluo.com/xs571857920/note/922066) 
